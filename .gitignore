@@ -25,14 +25,14 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 
-/examples/metastore_db/*
-/examples/checkPointFolder/*
-*.crc
 examples/metastore_db/*
+examples/checkPointFolder/*
+*.crc
 
 
 *.dat
-
+.DS_Store
+/examples/.DS_Store
 
 
 
