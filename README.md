@@ -10,7 +10,7 @@ https://github.com/ironmussa/Optimus-examples/blob/master/examples/Optimus_Main_
 
 The notebook looks much better with the rendering of NbViewer:
 
-https://nbviewer.jupyter.org/github/ironmussa/Optimus/blob/master/examples/Optimus_Example.ipynb
+https://nbviewer.jupyter.org/github/ironmussa/Optimus-examples/blob/master/examples/Optimus_Main_Example.ipynb
 
 ## Requirements
 * Apache Spark 2.2.0
